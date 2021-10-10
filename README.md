@@ -2,5 +2,8 @@
 ## react-node-app
 
 
-Built using 
+> Built using 
 - React
+
+> Developed by 
+e-ssp
